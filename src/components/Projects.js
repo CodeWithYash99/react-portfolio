@@ -3,49 +3,54 @@ import React from "react";
 const projectsData = [
   {
     id: 1,
+    name: "Portfolio App",
+    link: "https://codewithyash99.github.io/react-portfolio-app/",
+  },
+  {
+    id: 2,
     name: "Weather App",
     link: "https://codewithyash99.github.io/weather-app/",
   },
   {
-    id: 2,
+    id: 3,
     name: "QR Code Generator",
     link: "https://codewithyash99.github.io/qr-code-generator/",
   },
   {
-    id: 3,
+    id: 4,
     name: "Fact About Number",
     link: "https://codewithyash99.github.io/fact-about-number/",
   },
   {
-    id: 4,
+    id: 5,
     name: "Counter App",
     link: "https://codewithyash99.github.io/counter-app/",
   },
   {
-    id: 5,
+    id: 6,
     name: "ToDo App",
     link: "https://codewithyash99.github.io/todo-app/",
   },
   {
-    id: 6,
+    id: 7,
     name: "Redux Counter App",
     link: "https://codewithyash99.github.io/redux-counter-app/",
   },
   {
-    id: 7,
+    id: 8,
     name: "Redux ToDo App",
     link: "https://codewithyash99.github.io/redux-todo-app/",
   },
   {
-    id: 8,
+    id: 9,
     name: "Font Lightening Effect",
     link: "https://codewithyash99.github.io/font-lightening-effect/",
   },
   {
-    id: 9,
+    id: 10,
     name: "Credit Card Control",
     link: "https://codewithyash99.github.io/credit-card-control/",
-  }
+  },
 ];
 
 const Projects = () => {
