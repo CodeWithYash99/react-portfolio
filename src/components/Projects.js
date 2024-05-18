@@ -4,7 +4,7 @@ const projectsData = [
   {
     id: 1,
     name: "Portfolio App",
-    link: "https://codewithyash99.github.io/react-portfolio-app/",
+    link: "https://codewithyash99.github.io/react-portfolio/",
   },
   {
     id: 2,
