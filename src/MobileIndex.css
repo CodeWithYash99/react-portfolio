@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media screen and (max-width: 480px) {
+  .side-bar-bg-container {
+    background-color: #dc3d4b;
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 10%;
+  }
+
+  .profile-circle {
+    background-color: #db646e;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    cursor: none;
+  }
+
+  .profile-picture {
+  }
+
+  .list-items {
+  }
+}
