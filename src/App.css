@@ -1,5 +1,17 @@
-.App-container {
-  background-color: #F7C5CC;
-  width: 100%;
-  min-height: 100vh;
+@media screen and (max-width: 480px) {
+  .App-container {
+    background-color: #f7c5cc;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    min-height: 100vh;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .App-container {
+    background-color: #f7c5cc;
+    width: 100%;
+    min-height: 100vh;
+  }
 }
